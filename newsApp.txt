@@ -1,5 +1,3 @@
 News Application 
 https://github.com/Maifarah/News-Application
 
-Weather Application
-https://github.com/Maifarah/weather-App
